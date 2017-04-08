@@ -9,6 +9,8 @@ import java.util.Scanner;
  * original string, your method should return the original string. You can assume the string
  * has only uppercase and lowercase letters (a - z).
  * 
+ * Runtime: O(N) or O(M), we go through at maximum the string given or the larger "compressed" stirng
+ * 
  * @author Harsha Dodda
  *
  */
